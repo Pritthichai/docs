@@ -14,7 +14,7 @@ versions:
 topics:
   - Accounts
   - CLI
-  - Mobile
+  - มือถือ
   - Desktop
   - Security
 ---
